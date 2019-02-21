@@ -1,0 +1,8 @@
+---
+server:
+  services:
+    - docker
+    - nginx
+client:
+  domains:
+    - 
